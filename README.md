@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src="https://i.imgur.com/pSRiqOq.mov" height="30%" width="30%">
+<img src="https://i.imgur.com/pSRiqOq.mp4" height="30%" width="30%">
 
 ## License
 ```
