@@ -26,10 +26,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src="https://i.imgur.com/pSRiqOq.gif" height="30%" width="30%">
+<img src="https://i.imgur.com/pSRiqOq.mov" height="30%" width="30%">
 
 ## License
-``
+```
     Copyright [2023] [Ibrahim Raouh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
@@ -43,3 +43,4 @@ The following **additional** features are implemented:
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+```
